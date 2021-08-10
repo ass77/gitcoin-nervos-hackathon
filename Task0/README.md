@@ -1,4 +1,4 @@
-### Setup A Local CKB Node And CKB Indexer For The Testne
+# Setup A Local CKB Node And CKB Indexer For The Testnet
 
 ## 1. Setup a CKB Node
 
